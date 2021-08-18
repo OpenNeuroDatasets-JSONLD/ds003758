@@ -1,0 +1,4 @@
+{
+	"Description": "preprocessed using FSL (within FEAT): motion corrected, unwarped, slice time corrected, skull-stripped, & temporally filtered"
+}
+
