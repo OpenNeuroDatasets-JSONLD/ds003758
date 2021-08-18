@@ -1,0 +1,18 @@
+{
+    "Name": "Dynamic representation of the subjective value of information",
+    "BIDSVersion": "1.6.0",
+    "Authors": [
+        "Kenji Kobayashi",
+        "Sangil Lee",
+        "Alexandre L. S. Filipowicz",
+        "Kara D. McGaughey",
+        "Joseph W. Kable",
+        "Matthew R. Nassar"
+    ],
+    "HowToAcknowledge": "Cite https://www.biorxiv.org/content/10.1101/2021.02.12.431038v1",
+    "ReferencesAndLinks": [
+        "Dynamic representation of subjective value of information"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "10.18112/openneuro.ds003758.v1.0.1"
+}
